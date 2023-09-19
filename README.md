@@ -71,3 +71,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ![image](https://github.com/SadiaMahmoodMalik/interactive-comment-section/assets/86617135/8e9ea3f0-e73b-47c3-8dae-7256e8467e97)
 
+![image](https://github.com/SadiaMahmoodMalik/interactive-comment-section/assets/86617135/0ea1e692-8726-4ac9-aea4-a2e74a1243f7)
+
+![image](https://github.com/SadiaMahmoodMalik/interactive-comment-section/assets/86617135/62819ca2-ca52-4d9d-912e-2abd8354681b)
+
+![image](https://github.com/SadiaMahmoodMalik/interactive-comment-section/assets/86617135/17407f7f-5878-4157-9488-4ba5bf22da62)
+
+
+
+
